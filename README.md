@@ -19,6 +19,7 @@ This assignment focuses on learning MongoDB fundamentals including setup, CRUD o
 - `Week1-Assignment.md`: Detailed assignment instructions
 - `insert_books.js`: Script to populate your MongoDB database with sample book data
 - `queries.js`: MongoDB queries for all tasks
+- `MongoDB_compass_screenshot.png`: Screenshot of MongoDB Compass showing collections and sample data.
 
 ---
 
